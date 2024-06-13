@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<item>
+	<version>1.0.1</version>
+	<url>https://your-update-url/YourAppInstaller.msi</url>
+	<changelog>
+		- Feature 1 added
+		- Bug 2 fixed
+	</changelog>
+</item>
